@@ -1,2 +1,1 @@
-# store
-MeigoStore
+mixail чек AuthForm в проекте
